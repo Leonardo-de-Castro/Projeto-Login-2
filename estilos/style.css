@@ -83,11 +83,11 @@ div.campo > span {
 div.campo > input {
     background-color: rgb(197, 194, 194);
     font-size: 1em;
-    width: calc(100% - 45px);
+    width: calc(100% - 46px);
     height: 100%;
     transform: translateY(-11px);
     border-radius: 8px;
-    padding: 10px;
+    padding: 12px;
 
 }
 
